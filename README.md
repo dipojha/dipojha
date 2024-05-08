@@ -1,11 +1,8 @@
  <h1 align="center">Hi 👋, I'm Dip Ojha</h1>
 
-- 🔭 I’m currently working on React and figma
-- 🌱 I’m currently learning FrontEnd and designing
-- 💬 Ask me anything about JavaScript
+- 🔭 I’m currently working on figma and FrontEnd and learning Python
 - 📫 How to reach me: dipojha03@gmail.com
 - 😄 My website: https://dipojha.com.np
-- ⚡ Turning coffee into code since 2019.
 
 ### Connect with me:
 
