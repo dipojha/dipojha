@@ -28,3 +28,13 @@
 ![Dip Ojha's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipojha&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipojha&theme=dark)
+
+# Lab Records
+
+| **Lab** | **Title**                | **Date**       | **Remarks**             |
+|---------|--------------------------|----------------|-------------------------|
+| Lab 1   |                          |                |                         |
+| Lab 2   |                          |                |                         |
+| Lab 3   |                          |                |                         |
+| Lab 4   |                          |                |                         |
+| Lab 5   |                          |                |                         |
