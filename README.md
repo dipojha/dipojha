@@ -30,7 +30,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipojha&theme=dark)
 
 # Lab Records
-
 | **Lab** | **Title**                | **Date**       | **Remarks**             |
 |---------|--------------------------|----------------|-------------------------|
 | Lab 1   |    this is mr hero                      |                |                         |
