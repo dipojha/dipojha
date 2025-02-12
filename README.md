@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a passionate front-end developer and lifelong learner.
 
 ## 🌱 What I'm Learning
 - Mastering **Figma** for UI/UX design
-- Deepening my knowledge of **Front-End technologies** (HTML, CSS, JavaScript, React)
+- Deepening my knowledge of **Front-End technologies** (HTML, Tailwind CSS, JavaScript, React)
 - Exploring **Python** for backend development and automation
 
 ## 📫 How to Reach Me
