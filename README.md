@@ -46,16 +46,33 @@ Passionate about building responsive web applications and creating intuitive use
 
 ---
 
-### 🚀 Featured Projects
+# 🚀 Featured Projects
 
-1. **[Figma Design System](https://github.com/dipojha/figma-designs)**  
-   "Collection of UI/UX design patterns and component libraries for web applications"
+## 1. [React Portfolio Project](https://github.com/dipojha/portfolio-react)  
+"Modern portfolio website built with React and Tailwind CSS"  
+This project showcases my portfolio with sections like About, Projects, Technologies, Contact, and Resume. It uses React, Next.js, TypeScript, and Tailwind CSS to create a responsive and optimized experience.  
+**Featured Projects**:  
+- **[Alnote](https://alnote.netlify.app)** – A study note archival and distribution system designed to help students organize and share their study notes.  
+- **[TaskMaster](https://github.com/dipojha/taskmaster)** – A task management web app built with React, providing an intuitive interface for organizing personal and work tasks.  
+- **[BlogIt](https://github.com/dipojha/blogit)** – A simple blog website with post creation and comment features, utilizing React and Firebase for backend.  
 
-2. **[React Portfolio Project](https://github.com/dipojha/portfolio-react)**  
-   "Modern portfolio website built with React and Tailwind CSS"
+## 2. [Figma Design System](https://github.com/dipojha/figma-designs)  
+"Collection of UI/UX design patterns and component libraries for web applications"  
+This repository includes design systems and component libraries tailored for web applications, built using Figma. These designs are fully responsive and ready to be implemented in web projects.  
+**Featured Projects**:  
+- **[SalesFlow UI Kit](https://github.com/dipojha/salesflow-ui-kit)** – A complete UI kit for creating sales management applications, designed to streamline workflows.  
+- **[EduPortal Design](https://github.com/dipojha/eduportal-design)** – A comprehensive design system for an online education platform, including student, teacher, and admin views.  
 
-3. **[Python Automation Scripts](https://github.com/dipojha/python-automation)**  
-   "Collection of practical Python scripts for daily workflow optimization"
+## 3. [Python Automation Scripts](https://github.com/dipojha/python-automation)  
+"Collection of practical Python scripts for daily workflow optimization"  
+This repository includes various Python scripts that automate repetitive tasks to improve workflow efficiency, such as file organization, email sending, and web scraping.  
+**Featured Projects**:  
+- **[QuizMaster](https://github.com/dipojha/quizmaster)** – A Python-based quiz game where users can answer questions and track their score.  
+- **[WebScraperPro](https://github.com/dipojha/webscraperpro)** – A web scraping tool that extracts data from websites and stores it in CSV format.  
+
+---
+
+Feel free to check out the individual repositories for more details and the implementation of each project!
 
 ---
 
