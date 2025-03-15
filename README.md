@@ -3,6 +3,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-dipojha.com.np-FF4088?style=flat-square&logo=google-chrome)](https://dipojha.com.np)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dipojha)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail)](mailto:dipojha03@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=dipojha&color=brightgreen)
 
 **Web Developer | UI/UX Enthusiast | Lifelong Learner**
 
