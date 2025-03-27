@@ -1,4 +1,4 @@
-# Hello, I'm Dip Ojha 👋 
+# Hello, I'm Dip Ojha 👋
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dipojha.com.np-FF4088?style=flat-square&logo=google-chrome)](https://dipojha.com.np)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dipojha)
@@ -7,7 +7,9 @@
 
 **Web Developer | UI/UX Enthusiast | Lifelong Learner**
 
-Passionate about building responsive web applications and creating intuitive user experiences. Currently diving deep into React ecosystems, and Python automation!
+🚀 Building cool web apps by day, debugging them by night. Currently deep-diving into React, Python automation, and figuring out how to center a div. 
+
+![Coding Meme](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHdxODNtcHFuZjAxZ3Q2dm45Y3Q5aXRiOWtwdmhnbnB2Y2JrMWg3dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l44Qqz6gO6JiVV3pu/giphy.gif)
 
 ---
 
@@ -30,50 +32,18 @@ Passionate about building responsive web applications and creating intuitive use
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=json&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-**Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Tools & Others**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
 ---
 
-# 🚀 Featured Projects
+### 🚀 Featured Projects
+
+![Project Meme](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXBjcXFjbXpxcWF4ZXl6a3RjZHRmd3RtNHlmcmc2M3B3dmF3bjh5biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
 ## 1. [React Portfolio Project](https://github.com/dipojha/portfolio-react)  
 "Modern portfolio website built with React and Tailwind CSS"  
-This project showcases my portfolio with sections like About, Projects, Technologies, Contact, and Resume. It uses React, Next.js, TypeScript, and Tailwind CSS to create a responsive and optimized experience.  
-**Featured Projects**:  
-- **[Alnote](https://alnote.netlify.app)** – A study note archival and distribution system designed to help students organize and share their study notes.  
-- **[TaskMaster](https://github.com/dipojha/taskmaster)** – A task management web app built with React, providing an intuitive interface for organizing personal and work tasks.  
-- **[BlogIt](https://github.com/dipojha/blogit)** – A simple blog website with post creation and comment features, utilizing React and Firebase for backend.  
+Showcasing my best work, and yes, it’s 100% responsive. Unlike my sleep schedule.
 
-## 2. [Figma Design System](https://github.com/dipojha/figma-designs)  
-"Collection of UI/UX design patterns and component libraries for web applications"  
-This repository includes design systems and component libraries tailored for web applications, built using Figma. These designs are fully responsive and ready to be implemented in web projects.  
-**Featured Projects**:  
-- **[SalesFlow UI Kit](https://github.com/dipojha/salesflow-ui-kit)** – A complete UI kit for creating sales management applications, designed to streamline workflows.  
-- **[EduPortal Design](https://github.com/dipojha/eduportal-design)** – A comprehensive design system for an online education platform, including student, teacher, and admin views.  
-
-## 3. [Python Automation Scripts](https://github.com/dipojha/python-automation)  
-"Collection of practical Python scripts for daily workflow optimization"  
-This repository includes various Python scripts that automate repetitive tasks to improve workflow efficiency, such as file organization, email sending, and web scraping.  
-**Featured Projects**:  
-- **[QuizMaster](https://github.com/dipojha/quizmaster)** – A Python-based quiz game where users can answer questions and track their score.  
-- **[WebScraperPro](https://github.com/dipojha/webscraperpro)** – A web scraping tool that extracts data from websites and stores it in CSV format.  
-
----
-
-Feel free to check out the individual repositories for more details and the implementation of each project!
+## 2. [Python Automation Scripts](https://github.com/dipojha/python-automation)  
+"Automate all the boring stuff so I can watch anime in peace." 
 
 ---
 
@@ -103,8 +73,10 @@ Feel free to check out the individual repositories for more details and the impl
 
 ### ⚡ Fun Fact
 
-"When I'm not coding, you'll find me experimenting with digital art or learning new photography techniques!"
+I spend 90% of my time debugging and 10% pretending I know what I'm doing.
+
+![Debugging Meme](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThyOXE3ZnI2MGd2ZGVjOXA4bmlvZ3JlZjNvcmYwZzFlNnM5amU4NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RddAJiGxTPQFa/giphy.gif)
 
 ---
 
-⭐ **Thanks for visiting!** Feel free to explore my projects, and don't hesitate to reach out for collaborations or tech discussions!
+⭐ **Thanks for visiting!** Take these cookies as a gift 🍪🍪... but don't clear your browser history just yet!
