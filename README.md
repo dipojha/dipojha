@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail)](mailto:dipojha03@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=dipojha&color=brightgreen)
 
-**Web Developer | UI/UX Enthusiast | Lifelong Learner**
+**Web Developer**
 
 🚀 Building cool web apps by day, debugging them by night. Currently deep-diving into React, Python automation, and figuring out how to center a div. 
 
